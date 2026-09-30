@@ -4,7 +4,7 @@
 <p align="center">
 [<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/hamzasherif565-rgb)
 [<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>]
-(https://www.linkedin.com/in/hamza-sherif-445141374/)
+(https://www.linkedin.com/in/hamza-sherif-445141374/)<br>
 [<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:hamzasherif565@gmail.com)
 </p>
 
@@ -50,9 +50,5 @@ I enjoy building modern web applications and learning new technologies.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasherif565-rgb&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasherif565-rgb&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
----
-Built with [GPRG](https://gprg.bhalli.dev)
+
